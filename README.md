@@ -5,8 +5,17 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Fork your the repository to your repository 
 ### Step 2:
+Now using the command "django-admin startproject myproj" start a django project named myproj
+### Step 3:
+Now mek sure to adjust the settings.py folder properly by adding "import os" in line 14 and STATCFILES_DIRS line at last
+### Step 4:
+Now create a folder called static within this create another folder called html and within this create a html file named index.html
+### Step 5:
+Now create your book cover design using html and css
+### Step 6:
+Using the command runserver, run your server and then access the static and html folder to access the index.html file
 
 ## Code:
 Include your HTML code here
